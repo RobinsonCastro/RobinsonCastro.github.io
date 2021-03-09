@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.3b6b9098.chunk.css",
-    "main.js": "/static/js/main.79b90c1d.chunk.js",
-    "main.js.map": "/static/js/main.79b90c1d.chunk.js.map",
+    "main.css": "/static/css/main.1dd67a39.chunk.css",
+    "main.js": "/static/js/main.c3ba2053.chunk.js",
+    "main.js.map": "/static/js/main.c3ba2053.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b22ce137.js",
     "runtime-main.js.map": "/static/js/runtime-main.b22ce137.js.map",
     "static/js/2.db69d856.chunk.js": "/static/js/2.db69d856.chunk.js",
@@ -10,11 +10,16 @@
     "static/js/3.b053f939.chunk.js": "/static/js/3.b053f939.chunk.js",
     "static/js/3.b053f939.chunk.js.map": "/static/js/3.b053f939.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.3b6b9098.chunk.css.map": "/static/css/main.3b6b9098.chunk.css.map",
+    "static/css/main.1dd67a39.chunk.css.map": "/static/css/main.1dd67a39.chunk.css.map",
     "static/js/2.db69d856.chunk.js.LICENSE.txt": "/static/js/2.db69d856.chunk.js.LICENSE.txt",
     "static/media/ENOVA-GUIDE.a068f89d.png": "/static/media/ENOVA-GUIDE.a068f89d.png",
     "static/media/Rob_Castro.14726c50.svg": "/static/media/Rob_Castro.14726c50.svg",
     "static/media/Header.css": "/static/media/vscode.ba5bcf5e.png",
+    "static/media/financeiro.41926276.png": "/static/media/financeiro.41926276.png",
+    "static/media/financeiro2.eb5df95e.png": "/static/media/financeiro2.eb5df95e.png",
+    "static/media/financeiro3.8b651450.png": "/static/media/financeiro3.8b651450.png",
+    "static/media/financeiro4.c678da25.png": "/static/media/financeiro4.c678da25.png",
+    "static/media/financeiro5.a2016b03.png": "/static/media/financeiro5.a2016b03.png",
     "static/media/g5.0918e821.png": "/static/media/g5.0918e821.png",
     "static/media/g7.8b9dae5d.jpg": "/static/media/g7.8b9dae5d.jpg",
     "static/media/g8.909be052.png": "/static/media/g8.909be052.png",
@@ -27,7 +32,14 @@
     "static/media/line-Up3.848f7501.png": "/static/media/line-Up3.848f7501.png",
     "static/media/line-Up4.727c9726.png": "/static/media/line-Up4.727c9726.png",
     "static/media/logoTsuru.f43f9eb9.png": "/static/media/logoTsuru.f43f9eb9.png",
+    "static/media/notasdeumprovavelleitor.05c37061.png": "/static/media/notasdeumprovavelleitor.05c37061.png",
+    "static/media/notasdeumprovavelleitor2.074c4d12.png": "/static/media/notasdeumprovavelleitor2.074c4d12.png",
     "static/media/rob-main.992f1191.png": "/static/media/rob-main.992f1191.png",
+    "static/media/seletivoTutor.53d1d3fc.png": "/static/media/seletivoTutor.53d1d3fc.png",
+    "static/media/seletivoTutor2.df0ab8a7.png": "/static/media/seletivoTutor2.df0ab8a7.png",
+    "static/media/seletivoTutor3.d1cbaa49.png": "/static/media/seletivoTutor3.d1cbaa49.png",
+    "static/media/seletivoTutor4.f5984d87.png": "/static/media/seletivoTutor4.f5984d87.png",
+    "static/media/seletivoTutor5.232aa4a6.png": "/static/media/seletivoTutor5.232aa4a6.png",
     "static/media/twsBrasil.2c0d5845.png": "/static/media/twsBrasil.2c0d5845.png",
     "static/media/twsBrasil2.dcef5a05.png": "/static/media/twsBrasil2.dcef5a05.png",
     "static/media/twsBrasil3.74f1db23.png": "/static/media/twsBrasil3.74f1db23.png",
@@ -36,7 +48,7 @@
   "entrypoints": [
     "static/js/runtime-main.b22ce137.js",
     "static/js/2.db69d856.chunk.js",
-    "static/css/main.3b6b9098.chunk.css",
-    "static/js/main.79b90c1d.chunk.js"
+    "static/css/main.1dd67a39.chunk.css",
+    "static/js/main.c3ba2053.chunk.js"
   ]
 }
