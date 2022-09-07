@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.90d03a28.chunk.css",
-    "main.js": "/static/js/main.411b30c6.chunk.js",
-    "main.js.map": "/static/js/main.411b30c6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e561d75e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e561d75e.js.map",
-    "static/js/2.59690452.chunk.js": "/static/js/2.59690452.chunk.js",
-    "static/js/2.59690452.chunk.js.map": "/static/js/2.59690452.chunk.js.map",
-    "static/js/3.f0857f2e.chunk.js": "/static/js/3.f0857f2e.chunk.js",
-    "static/js/3.f0857f2e.chunk.js.map": "/static/js/3.f0857f2e.chunk.js.map",
+    "main.css": "/static/css/main.c1f1fcd7.chunk.css",
+    "main.js": "/static/js/main.bff384c1.chunk.js",
+    "main.js.map": "/static/js/main.bff384c1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f321fe24.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f321fe24.js.map",
+    "static/js/2.cd803680.chunk.js": "/static/js/2.cd803680.chunk.js",
+    "static/js/2.cd803680.chunk.js.map": "/static/js/2.cd803680.chunk.js.map",
+    "static/js/3.ee5f4867.chunk.js": "/static/js/3.ee5f4867.chunk.js",
+    "static/js/3.ee5f4867.chunk.js.map": "/static/js/3.ee5f4867.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.90d03a28.chunk.css.map": "/static/css/main.90d03a28.chunk.css.map",
-    "static/js/2.59690452.chunk.js.LICENSE.txt": "/static/js/2.59690452.chunk.js.LICENSE.txt",
+    "static/css/main.c1f1fcd7.chunk.css.map": "/static/css/main.c1f1fcd7.chunk.css.map",
+    "static/js/2.cd803680.chunk.js.LICENSE.txt": "/static/js/2.cd803680.chunk.js.LICENSE.txt",
     "static/media/ENOVA-GUIDE.a068f89d.png": "/static/media/ENOVA-GUIDE.a068f89d.png",
-    "static/media/Rob_Castro.14726c50.svg": "/static/media/Rob_Castro.14726c50.svg",
+    "static/media/Rob_Castro.47cce5f1.svg": "/static/media/Rob_Castro.47cce5f1.svg",
     "static/media/Header.css": "/static/media/vscode.ba5bcf5e.png",
     "static/media/financeiro.41926276.png": "/static/media/financeiro.41926276.png",
     "static/media/financeiro2.eb5df95e.png": "/static/media/financeiro2.eb5df95e.png",
@@ -27,6 +27,7 @@
     "static/media/joare2.dbbc9067.png": "/static/media/joare2.dbbc9067.png",
     "static/media/joare3.d45088b3.png": "/static/media/joare3.d45088b3.png",
     "static/media/joare4.89fecd8c.png": "/static/media/joare4.89fecd8c.png",
+    "static/media/laravel.f704a6e4.png": "/static/media/laravel.f704a6e4.png",
     "static/media/line-Up.ad4a1dbe.png": "/static/media/line-Up.ad4a1dbe.png",
     "static/media/line-Up2.ffd82b21.png": "/static/media/line-Up2.ffd82b21.png",
     "static/media/line-Up3.848f7501.png": "/static/media/line-Up3.848f7501.png",
@@ -46,9 +47,9 @@
     "static/media/twsBrasil4.36861ac8.png": "/static/media/twsBrasil4.36861ac8.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e561d75e.js",
-    "static/js/2.59690452.chunk.js",
-    "static/css/main.90d03a28.chunk.css",
-    "static/js/main.411b30c6.chunk.js"
+    "static/js/runtime-main.f321fe24.js",
+    "static/js/2.cd803680.chunk.js",
+    "static/css/main.c1f1fcd7.chunk.css",
+    "static/js/main.bff384c1.chunk.js"
   ]
 }
